@@ -10,3 +10,5 @@ Detect the border of urban areas. Please see [1](http://iopscience.iop.org/artic
 * networkx (2.1)
 * opencv (3.4.1)
 * scikit-image (0.13.0)
+
+An example usage for the functions contained in the script can be found at the end of the border.py script. 
